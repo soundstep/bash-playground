@@ -1,2 +1,3 @@
-# bash-playground
+# Bash playground
+
 Bash playground
