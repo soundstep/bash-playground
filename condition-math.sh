@@ -1,5 +1,12 @@
 #!/usr/bin/env bash
 
+# -eq equal
+# -ne not equal
+# -gt greater than
+# -lt lower than
+# -ge greater than or equal to
+# -le lower than or equal to
+
 # exit if more or less then 2 args
 
 if [ $# -ne 2 ]; then
